@@ -14,8 +14,8 @@
 <a href="https://linkedin.com/in/aiswariya-dash-22b276228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aiswariya-dash-22b276228" height="30" width="40" /></a>
 <a href="https://instagram.com/@aish_dash_35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@aish_dash_35" height="30" width="40" /></a>
 <a href="https://medium.com/@aiswariya.dash03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aiswariya.dash03" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@aiswariya_dash03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aiswariya_dash03" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aiswariya34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aiswariya34" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@aiswariya_dash03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@aiswariya_dash03" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
